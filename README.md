@@ -18,5 +18,4 @@ How to install...
 
 
 ## License
-MIT License...
-![WhatsApp Image 2022-08-11 at 9 52 19 PM](https://github.com/user-attachments/assets/b0cc2dab-a5e1-4d20-aa2d-ab09ec3bda6a)
+
